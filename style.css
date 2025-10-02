@@ -1,0 +1,58 @@
+body {
+	background-color:#3333ff;
+	color:#ff33cc;
+	font-family: "font";
+}
+@font-face {
+	font-family:"font";
+	src: url("Josephs Cool Font.ttf");
+}	
+h1 {
+	text-align:center;
+	font-size: 45px;
+}
+h3 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	font-size: 32px;
+}
+p {
+ font-size: 24px;
+}
+.myimage{
+	width: 300px;
+    height: 360px;
+    object-fit: cover;
+    border-radius: 50%;
+    background-position: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px solid #555;
+    border-color: #ffffff;
+}
+button {
+	font-weight:bold;
+	font-size: 25px;
+	color:#3FA7D6;
+	background-color:#F67280;
+	text-align:center;
+	border-width:200%;
+	bordrer-color:#88D498;
+	display: block;
+	margin: auto;
+}
+li {
+ font-size: 24px;
+}
+span {
+	margin:25px;
+}
+a {
+	background-color:#3333ff;
+	color:#ff33cc;
+	font-family:"times new roman";
+	font-size: 25px;
+}
